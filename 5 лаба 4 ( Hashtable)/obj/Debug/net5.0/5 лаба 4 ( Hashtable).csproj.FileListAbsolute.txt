@@ -1,0 +1,16 @@
+C:\Users\KIRILL\source\repos\5 лаба 4 ( Hashtable)\5 лаба 4 ( Hashtable)\bin\Debug\net5.0\5 лаба 4 ( Hashtable).exe
+C:\Users\KIRILL\source\repos\5 лаба 4 ( Hashtable)\5 лаба 4 ( Hashtable)\bin\Debug\net5.0\5 лаба 4 ( Hashtable).deps.json
+C:\Users\KIRILL\source\repos\5 лаба 4 ( Hashtable)\5 лаба 4 ( Hashtable)\bin\Debug\net5.0\5 лаба 4 ( Hashtable).runtimeconfig.json
+C:\Users\KIRILL\source\repos\5 лаба 4 ( Hashtable)\5 лаба 4 ( Hashtable)\bin\Debug\net5.0\5 лаба 4 ( Hashtable).runtimeconfig.dev.json
+C:\Users\KIRILL\source\repos\5 лаба 4 ( Hashtable)\5 лаба 4 ( Hashtable)\bin\Debug\net5.0\5 лаба 4 ( Hashtable).dll
+C:\Users\KIRILL\source\repos\5 лаба 4 ( Hashtable)\5 лаба 4 ( Hashtable)\bin\Debug\net5.0\ref\5 лаба 4 ( Hashtable).dll
+C:\Users\KIRILL\source\repos\5 лаба 4 ( Hashtable)\5 лаба 4 ( Hashtable)\bin\Debug\net5.0\5 лаба 4 ( Hashtable).pdb
+C:\Users\KIRILL\source\repos\5 лаба 4 ( Hashtable)\5 лаба 4 ( Hashtable)\obj\Debug\net5.0\5 лаба 4 ( Hashtable).csproj.AssemblyReference.cache
+C:\Users\KIRILL\source\repos\5 лаба 4 ( Hashtable)\5 лаба 4 ( Hashtable)\obj\Debug\net5.0\5 лаба 4 ( Hashtable).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRILL\source\repos\5 лаба 4 ( Hashtable)\5 лаба 4 ( Hashtable)\obj\Debug\net5.0\5 лаба 4 ( Hashtable).AssemblyInfoInputs.cache
+C:\Users\KIRILL\source\repos\5 лаба 4 ( Hashtable)\5 лаба 4 ( Hashtable)\obj\Debug\net5.0\5 лаба 4 ( Hashtable).AssemblyInfo.cs
+C:\Users\KIRILL\source\repos\5 лаба 4 ( Hashtable)\5 лаба 4 ( Hashtable)\obj\Debug\net5.0\5 лаба 4 ( Hashtable).csproj.CoreCompileInputs.cache
+C:\Users\KIRILL\source\repos\5 лаба 4 ( Hashtable)\5 лаба 4 ( Hashtable)\obj\Debug\net5.0\5 лаба 4 ( Hashtable).dll
+C:\Users\KIRILL\source\repos\5 лаба 4 ( Hashtable)\5 лаба 4 ( Hashtable)\obj\Debug\net5.0\ref\5 лаба 4 ( Hashtable).dll
+C:\Users\KIRILL\source\repos\5 лаба 4 ( Hashtable)\5 лаба 4 ( Hashtable)\obj\Debug\net5.0\5 лаба 4 ( Hashtable).pdb
+C:\Users\KIRILL\source\repos\5 лаба 4 ( Hashtable)\5 лаба 4 ( Hashtable)\obj\Debug\net5.0\5 лаба 4 ( Hashtable).genruntimeconfig.cache
